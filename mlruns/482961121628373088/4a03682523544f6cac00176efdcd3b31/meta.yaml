@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/4a03682523544f6cac00176efdcd3b31/artifacts
+end_time: 1733427919295
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 4a03682523544f6cac00176efdcd3b31
+run_name: stately-squid-747
+run_uuid: 4a03682523544f6cac00176efdcd3b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427873255
+status: 4
+tags: []
+user_id: carliarbon

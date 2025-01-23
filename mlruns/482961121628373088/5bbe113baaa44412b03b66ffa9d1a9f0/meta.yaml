@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/5bbe113baaa44412b03b66ffa9d1a9f0/artifacts
+end_time: 1733428051246
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 5bbe113baaa44412b03b66ffa9d1a9f0
+run_name: gentle-newt-731
+run_uuid: 5bbe113baaa44412b03b66ffa9d1a9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733428008834
+status: 4
+tags: []
+user_id: carliarbon

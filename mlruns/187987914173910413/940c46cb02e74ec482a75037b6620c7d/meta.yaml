@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/940c46cb02e74ec482a75037b6620c7d/artifacts
+end_time: 1733417339384
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: 940c46cb02e74ec482a75037b6620c7d
+run_name: industrious-bug-974
+run_uuid: 940c46cb02e74ec482a75037b6620c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733417258521
+status: 3
+tags: []
+user_id: carliarbon

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/a3e02a83307f4fb29ad093e025fdf62e/artifacts
+end_time: 1733416450515
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: a3e02a83307f4fb29ad093e025fdf62e
+run_name: welcoming-toad-774
+run_uuid: a3e02a83307f4fb29ad093e025fdf62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733416450101
+status: 4
+tags: []
+user_id: carliarbon

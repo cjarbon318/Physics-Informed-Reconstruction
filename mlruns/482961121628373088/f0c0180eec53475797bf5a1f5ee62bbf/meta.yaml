@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/f0c0180eec53475797bf5a1f5ee62bbf/artifacts
+end_time: 1733426742836
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: f0c0180eec53475797bf5a1f5ee62bbf
+run_name: vaunted-tern-375
+run_uuid: f0c0180eec53475797bf5a1f5ee62bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426702630
+status: 4
+tags: []
+user_id: carliarbon

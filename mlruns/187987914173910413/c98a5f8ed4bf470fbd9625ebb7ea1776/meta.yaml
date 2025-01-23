@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/c98a5f8ed4bf470fbd9625ebb7ea1776/artifacts
+end_time: 1733416996679
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: c98a5f8ed4bf470fbd9625ebb7ea1776
+run_name: debonair-roo-236
+run_uuid: c98a5f8ed4bf470fbd9625ebb7ea1776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733416933434
+status: 4
+tags: []
+user_id: carliarbon

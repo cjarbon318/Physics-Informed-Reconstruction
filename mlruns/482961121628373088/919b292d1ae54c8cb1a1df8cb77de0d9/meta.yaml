@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/919b292d1ae54c8cb1a1df8cb77de0d9/artifacts
+end_time: 1733426202845
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 919b292d1ae54c8cb1a1df8cb77de0d9
+run_name: entertaining-sow-99
+run_uuid: 919b292d1ae54c8cb1a1df8cb77de0d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426161186
+status: 4
+tags: []
+user_id: carliarbon

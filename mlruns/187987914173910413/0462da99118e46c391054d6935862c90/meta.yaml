@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/0462da99118e46c391054d6935862c90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: 0462da99118e46c391054d6935862c90
+run_name: honorable-shrew-542
+run_uuid: 0462da99118e46c391054d6935862c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733416658929
+status: 1
+tags: []
+user_id: carliarbon

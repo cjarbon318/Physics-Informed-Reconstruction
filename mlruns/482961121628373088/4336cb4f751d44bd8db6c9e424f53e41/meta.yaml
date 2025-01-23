@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/4336cb4f751d44bd8db6c9e424f53e41/artifacts
+end_time: 1733426313308
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 4336cb4f751d44bd8db6c9e424f53e41
+run_name: nosy-grouse-715
+run_uuid: 4336cb4f751d44bd8db6c9e424f53e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426267928
+status: 4
+tags: []
+user_id: carliarbon

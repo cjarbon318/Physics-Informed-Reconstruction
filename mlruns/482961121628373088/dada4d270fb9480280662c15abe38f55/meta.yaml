@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/dada4d270fb9480280662c15abe38f55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: dada4d270fb9480280662c15abe38f55
+run_name: learned-kit-758
+run_uuid: dada4d270fb9480280662c15abe38f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426138236
+status: 1
+tags: []
+user_id: carliarbon

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/b92eeb5940b54ceaa345467348c9b04a/artifacts
+end_time: 1733426607467
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: b92eeb5940b54ceaa345467348c9b04a
+run_name: sneaky-calf-915
+run_uuid: b92eeb5940b54ceaa345467348c9b04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426566179
+status: 4
+tags: []
+user_id: carliarbon

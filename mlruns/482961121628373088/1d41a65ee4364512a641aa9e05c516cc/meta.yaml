@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/1d41a65ee4364512a641aa9e05c516cc/artifacts
+end_time: 1733425704795
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 1d41a65ee4364512a641aa9e05c516cc
+run_name: shivering-smelt-311
+run_uuid: 1d41a65ee4364512a641aa9e05c516cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733425663581
+status: 3
+tags: []
+user_id: carliarbon

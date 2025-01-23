@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/6218462312b848ef881dd848e6cc5795/artifacts
+end_time: 1733428936269
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 6218462312b848ef881dd848e6cc5795
+run_name: exultant-doe-162
+run_uuid: 6218462312b848ef881dd848e6cc5795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733428864964
+status: 3
+tags: []
+user_id: carliarbon

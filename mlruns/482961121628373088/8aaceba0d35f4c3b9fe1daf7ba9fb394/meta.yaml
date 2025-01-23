@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/8aaceba0d35f4c3b9fe1daf7ba9fb394/artifacts
+end_time: 1733427777385
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 8aaceba0d35f4c3b9fe1daf7ba9fb394
+run_name: receptive-gnu-556
+run_uuid: 8aaceba0d35f4c3b9fe1daf7ba9fb394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427735931
+status: 4
+tags: []
+user_id: carliarbon

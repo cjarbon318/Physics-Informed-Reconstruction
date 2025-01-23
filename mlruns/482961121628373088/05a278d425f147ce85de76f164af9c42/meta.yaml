@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/05a278d425f147ce85de76f164af9c42/artifacts
+end_time: 1733427355239
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 05a278d425f147ce85de76f164af9c42
+run_name: unique-cod-471
+run_uuid: 05a278d425f147ce85de76f164af9c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427312357
+status: 4
+tags: []
+user_id: carliarbon

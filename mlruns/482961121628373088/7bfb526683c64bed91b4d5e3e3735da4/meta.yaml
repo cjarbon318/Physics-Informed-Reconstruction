@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/7bfb526683c64bed91b4d5e3e3735da4/artifacts
+end_time: 1733520993366
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 7bfb526683c64bed91b4d5e3e3735da4
+run_name: amusing-grub-858
+run_uuid: 7bfb526683c64bed91b4d5e3e3735da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733520943854
+status: 3
+tags: []
+user_id: carliarbon

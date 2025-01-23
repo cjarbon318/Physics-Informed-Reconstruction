@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/81732487299d41bdb18ac366e1cb7985/artifacts
+end_time: 1733426867799
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 81732487299d41bdb18ac366e1cb7985
+run_name: tasteful-duck-475
+run_uuid: 81732487299d41bdb18ac366e1cb7985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426818136
+status: 4
+tags: []
+user_id: carliarbon

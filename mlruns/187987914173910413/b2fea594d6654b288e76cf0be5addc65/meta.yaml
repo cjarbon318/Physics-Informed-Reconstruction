@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/b2fea594d6654b288e76cf0be5addc65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: b2fea594d6654b288e76cf0be5addc65
+run_name: illustrious-fish-215
+run_uuid: b2fea594d6654b288e76cf0be5addc65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733418573142
+status: 1
+tags: []
+user_id: carliarbon

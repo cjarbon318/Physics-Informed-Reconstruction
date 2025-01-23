@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/d3a6c086b7e14aa3a11230976227e2d1/artifacts
+end_time: 1733427181421
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: d3a6c086b7e14aa3a11230976227e2d1
+run_name: beautiful-zebra-871
+run_uuid: d3a6c086b7e14aa3a11230976227e2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427138857
+status: 4
+tags: []
+user_id: carliarbon

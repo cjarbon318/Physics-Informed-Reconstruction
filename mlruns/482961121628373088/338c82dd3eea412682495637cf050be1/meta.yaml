@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/338c82dd3eea412682495637cf050be1/artifacts
+end_time: 1733428709599
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 338c82dd3eea412682495637cf050be1
+run_name: unleashed-goat-83
+run_uuid: 338c82dd3eea412682495637cf050be1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733428667371
+status: 4
+tags: []
+user_id: carliarbon

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/1ec09f15d5034226808669c1a3394c16/artifacts
+end_time: 1733427646984
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 1ec09f15d5034226808669c1a3394c16
+run_name: painted-moose-839
+run_uuid: 1ec09f15d5034226808669c1a3394c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427605352
+status: 4
+tags: []
+user_id: carliarbon

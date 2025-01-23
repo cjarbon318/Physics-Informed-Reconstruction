@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/24388aa6b93b4ed691ad5e8e837897ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: 24388aa6b93b4ed691ad5e8e837897ad
+run_name: worried-moth-499
+run_uuid: 24388aa6b93b4ed691ad5e8e837897ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733417189205
+status: 1
+tags: []
+user_id: carliarbon

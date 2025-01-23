@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/ae3b693cc8214cfebf4acffa45bd38d2/artifacts
+end_time: 1733428224465
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: ae3b693cc8214cfebf4acffa45bd38d2
+run_name: bold-fox-286
+run_uuid: ae3b693cc8214cfebf4acffa45bd38d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733428180194
+status: 4
+tags: []
+user_id: carliarbon

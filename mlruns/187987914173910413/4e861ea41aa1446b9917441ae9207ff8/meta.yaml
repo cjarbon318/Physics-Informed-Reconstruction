@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/4e861ea41aa1446b9917441ae9207ff8/artifacts
+end_time: 1733416926103
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: 4e861ea41aa1446b9917441ae9207ff8
+run_name: worried-wasp-117
+run_uuid: 4e861ea41aa1446b9917441ae9207ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733416878985
+status: 4
+tags: []
+user_id: carliarbon

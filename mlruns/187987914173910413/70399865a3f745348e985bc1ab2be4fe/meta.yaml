@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/187987914173910413/70399865a3f745348e985bc1ab2be4fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '187987914173910413'
+lifecycle_stage: active
+run_id: 70399865a3f745348e985bc1ab2be4fe
+run_name: sedate-quail-945
+run_uuid: 70399865a3f745348e985bc1ab2be4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733417164349
+status: 1
+tags: []
+user_id: carliarbon

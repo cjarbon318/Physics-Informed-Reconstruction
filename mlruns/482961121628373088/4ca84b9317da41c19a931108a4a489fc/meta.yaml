@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/4ca84b9317da41c19a931108a4a489fc/artifacts
+end_time: 1733426499132
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 4ca84b9317da41c19a931108a4a489fc
+run_name: upbeat-yak-559
+run_uuid: 4ca84b9317da41c19a931108a4a489fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426452731
+status: 4
+tags: []
+user_id: carliarbon

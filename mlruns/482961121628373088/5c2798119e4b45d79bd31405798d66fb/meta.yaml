@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carliarbon/dataproject/mlruns/482961121628373088/5c2798119e4b45d79bd31405798d66fb/artifacts
+end_time: 1733427549698
+entry_point_name: ''
+experiment_id: '482961121628373088'
+lifecycle_stage: active
+run_id: 5c2798119e4b45d79bd31405798d66fb
+run_name: traveling-steed-496
+run_uuid: 5c2798119e4b45d79bd31405798d66fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733427505478
+status: 4
+tags: []
+user_id: carliarbon

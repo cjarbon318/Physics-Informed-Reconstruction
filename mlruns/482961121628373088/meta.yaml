@@ -1,0 +1,6 @@
+artifact_location: file:///Users/carliarbon/dataproject/mlruns/482961121628373088
+creation_time: 1733425662678
+experiment_id: '482961121628373088'
+last_update_time: 1733425662678
+lifecycle_stage: active
+name: RNN_Transformer_Anomaly_Detection
